@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif)]()
 <h1 align="center">Hi 👋, I'm Thorf</h1>
-<h3 align="center">Manusia yang akan frontend developer dari Indonesia</h3>
+<h3 align="center">Manusia yang akan jadi frontend/backend/fullstack developer dari Indonesia</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/zDng4N4u1CQAAAAC/dance-anime.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thorfinshine&label=Profile%20views&color=0e75b6&style=flat" alt="thorfinshine" /> </p>

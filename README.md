@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thorfinshine&label=Profile%20views&color=0e75b6&style=flat" alt="thorfinshine" /> </p>
 
-- 🌱 I’m currently learning **Courses**
+- 🌱 Baru belajar **Coding**
 
 - 📫 How to reach me **hienzosan20@gmail.com**
 

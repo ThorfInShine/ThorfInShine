@@ -2,7 +2,7 @@
 
 ![Header](https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif)
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#3b82f6">Thorf</span></h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#3b82f6">Bangsawan</span></h1>
 <h3 align="center">💻 Aspiring Fullstack Developer | 🔥 Tech Explorer | 🌍 Lifelong Learner</h3>
 
 ---

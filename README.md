@@ -71,5 +71,3 @@
 </p>
 
 ---
-
-<p align="center">⚡ Crafted with passion by <b>Thorf</b> ⚡</p>
